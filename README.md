@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Kishor Jha! 👋</h1>
 
-<p align="center"> 
-  <b>Software Engineer</b> | <b>Competitive Programmer</b>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Competitive+Programmer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
+
 
 ---
 
