@@ -30,3 +30,4 @@ Other:         REST APIs, Competitive Programming, Data Structures & Algorithms
 💡 [**PixelForge**](https://github.com/Kishor-work1/PixelForge) – AI-based image face swapping, background removal, and image generation app.  
 📝 [**Fullstack-Notes-App**](https://github.com/Kishor-work1/Fullstack-Notes-App) – A full-stack notes-taking application.  
 🎬 [**movie-details-app**](https://github.com/Kishor-work1/movie-details-app) – A movie app that lists movies and shows their details.  
+
