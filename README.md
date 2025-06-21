@@ -31,3 +31,13 @@ Other:         REST APIs, Competitive Programming, Data Structures & Algorithms
 📝 [**Fullstack-Notes-App**](https://github.com/Kishor-work1/Fullstack-Notes-App) – A full-stack notes-taking application.  
 🎬 [**movie-details-app**](https://github.com/Kishor-work1/movie-details-app) – A movie app that lists movies and shows their details.  
 
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishor-work1&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-work1&layout=compact&theme=radical" width="45%" />
+
+</div>
