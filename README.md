@@ -22,7 +22,7 @@
 ```txt
 Languages:     Java, Python, JavaScript, C++ ,Typescript 
 Backend:       Spring Boot, Node.js  
-Frontend:      HTML, CSS, JavaScript, React, Next.js  
+Frontend:      HTML, CSS, JavaScript, React, Next.js , React Native 
 Database:      MySQL, MongoDB  
 Other:         REST APIs, Competitive Programming, Data Structures & Algorithms  
 
