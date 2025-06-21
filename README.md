@@ -22,3 +22,11 @@ Backend:       Spring Boot, Node.js
 Frontend:      HTML, CSS, JavaScript, React, Next.js  
 Database:      MySQL, MongoDB  
 Other:         REST APIs, Competitive Programming, Data Structures & Algorithms  
+
+
+### 🚀 Featured Projects
+
+- 🚀 [**MockInterview**]((https://github.com/Kishor-work1/Mock-Interview)) – AI Based mock interview prep & feedback.
+- 💡 [**PixelForge**]((https://github.com/Kishor-work1/PixelForge)) – Ai based Image face swaping , bg removed , image generated app.
+- 🎬 [**Fullstack-Notes-App**]((https://github.com/Kishor-work1/Fullstack-Notes-App)) – Afull stack notes app.
+- 🤖 [**movie-details-app**]((https://github.com/Kishor-work1/movie-details-app)) – A movie details app list of movie their details.
