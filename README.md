@@ -35,10 +35,13 @@ Other:         REST APIs, Competitive Programming, Data Structures & Algorithms
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishor-work1&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-work1&layout=compact&theme=radical" width="48%"/>
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kishor-work1&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-work1&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
