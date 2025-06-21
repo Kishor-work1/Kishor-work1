@@ -23,7 +23,7 @@ Frontend:      HTML, CSS, JavaScript, React, Next.js
 Database:      MySQL, MongoDB  
 Other:         REST APIs, Competitive Programming, Data Structures & Algorithms  
 
-
+```
 ### 📌 Featured Projects
 
 🚀 [**MockInterview**](https://github.com/Kishor-work1/Mock-Interview) – AI-based mock interview preparation & feedback.  
