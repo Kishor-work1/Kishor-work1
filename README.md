@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kishor Jha! 👋</h1>
 
-<!--
-**Kishor-work1/Kishor-work1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <b>Software Engineer</b> | <b>Competitive Programmer</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🔥 Passionate about building scalable applications, solving real-world problems.  
+🎯 Love participating in coding contests and contributing to open-source projects.  
+📚 Currently learning **Spring Boot, System Design and Advanced Data Structures & Algorithms**.
+
+---
+
+### 🛠 Technologies & Skills
+
+```txt
+Languages:     Java, Python, JavaScript, C++ ,Typescript 
+Backend:       Spring Boot, Node.js  
+Frontend:      HTML, CSS, JavaScript, React, Next.js  
+Database:      MySQL, MongoDB  
+Other:         REST APIs, Competitive Programming, Data Structures & Algorithms  
