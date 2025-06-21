@@ -45,9 +45,9 @@ Other:         REST APIs, Competitive Programming, Data Structures & Algorithms
     </td>
   </tr>
 </table>
+```
 
 
-```txt
 ### 🏆 GitHub Trophies
 
 <p align="center">
