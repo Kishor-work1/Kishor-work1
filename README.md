@@ -57,6 +57,7 @@ Other:         REST APIs, Competitive Programming, Data Structures & Algorithms
   <img src="https://github-profile-trophy.vercel.app/?username=Kishor-work1&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=15" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kishor-work1&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishor-work1&theme=github-compact&hide_border=true)
+
 
 
