@@ -13,7 +13,7 @@
 
 🔥 Passionate about building scalable applications, solving real-world problems.  
 🎯 Love participating in coding contests and contributing to open-source projects.  
-📚 Currently learning **Spring Boot, System Design and Advanced Data Structures & Algorithms**.
+📚 Currently learning **System Design and Advanced Data Structures & Algorithms**.
 
 ---
 
